@@ -3,7 +3,8 @@ To run this script, you'll need to have the argparse and dnspython libraries ins
 ->pip install argparse dnspython
 
 This will check the DMARC records for example.com, example2.com, and example3.com.
+
 Usage:
-python dmarccheck.py example.com example2.com example3.com
+->python dmarccheck.py example.com example2.com example3.com
 
 
