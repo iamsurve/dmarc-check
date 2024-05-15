@@ -1,6 +1,7 @@
 dmarccheck
 
 Project Description
+
 To check the DMARC records for multiple domains at once,This script accepts multiple domains as arguments and checks for the existence of DMARC, SPF, and DKIM records for each domain. To run this script, you'll need to provide the domains as arguments when calling the script from the command line.
 
 Checks
