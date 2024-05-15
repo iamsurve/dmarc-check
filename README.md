@@ -1,3 +1,12 @@
+
+
+
+
+Checks
+- Check SPF record in a domain name.
+- Check DMARC record in a domain name.
+- In case that SPF & DMARC is not configured, send a test email
+
 To run this script, you'll need to have the argparse and dnspython libraries installed. You can install them using pip:
 
 pip install argparse dnspython
